@@ -56,6 +56,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSd5Idc1wG2uhHBT11veYVx6JUfrvb_ylc1WC0Zf
 * **Canales de comunicación**:
   * Lista de correo: https://groups.google.com/g/community-builders-es
   * Github discussions: https://github.com/orgs/ComBuildersES/discussions
-  * Email: communitybuilders.es@gmail.com
+  * Contacto con los administradores: communitybuilders.es@gmail.com
 * **Web**: https://combuilderses.github.io/
 * **YouTube**: https://www.youtube.com/@ComBuilders_ES
