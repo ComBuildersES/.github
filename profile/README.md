@@ -36,7 +36,7 @@ Principalmente tenemos dos líneas:
 
 ## Proyectos
 
-Actualmente estamos usando [este tablero de Trello](https://trello.com/b/fizmMeL8/comunidad-de-personas-que-dinamizan-comunidades) pero intentando migrar a esta cuenta de GitHub.
+Actualmente estamos usando [este tablero de Trello](https://trello.com/b/fizmMeL8/comunidad-de-personas-que-dinamizan-comunidades) pero hemos empezado a migrarlos a esta cuenta de GitHub bajo la [etiqueta proyectos](https://github.com/search?q=topic%3Aproyecto+org%3AComBuildersES+fork%3Atrue&type=repositories).
 
 ## Cómo unirse a Community Builders
 
