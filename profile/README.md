@@ -44,6 +44,4 @@ Puedes solicutar unirte si:
 * **Canales de comunicación**:
   * Lista de correo: https://groups.google.com/g/community-builders-es
   * Github discussions: https://github.com/orgs/ComBuildersES/discussions
-  * Contacto con los administradores: communitybuilders.es@gmail.com
-* **Web**: https://combuilderses.github.io/
 * **YouTube**: https://www.youtube.com/@ComBuilders_ES
