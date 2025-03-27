@@ -5,13 +5,11 @@ Es una [comunidad de práctica](https://es.wikipedia.org/wiki/Comunidad_de_pr%C3
 **¿Y qué entendemos por comunidad técnica?**
 [Se pueden entender muchas cosas](https://www.rauljimenez.info/es/blog/what-is-a-technical-community) pero nosotros lo entendemos en el concepto más amplio (inclusivo) de la palabra: 
 
-* Grupo de personas que se reunen
-* Comparten interés por la tecnología (software o hardware)
-* Suelen estar centradas en el desarrollo profesional o personal (más que en el puro entretenimiento).
-* La gente invierte parte de su tiempo libre (por una motivación intrínseca), para interactuar regularmente entre ellas.
-* Lo hacen normalmente normalmente por disfrutar con personas afines y en su tiempo libre de su pasión por la tecnología. 
-* Normalmente de manera altruista, y a veces hasta buscando el bien ajeno aún a costa del propio
-* Etc
+- Grupo de personas que se reúne en torno a la tecnología (software o hardware).
+- Comparten una pasión que impulsa su desarrollo personal o profesional.
+- Participan en su tiempo libre por motivación intrínseca y afinidad con otras personas.
+- Disfrutan compartiendo conocimiento y experiencias de forma altruista.
+- A menudo buscan generar un impacto positivo en los demás.
 
 Por tanto en esta definición incluímos: tech meetups, conferencias, organizaciones paraguas, hacklab, grupo colaborativo, meta comunidad, grupo de ayuda mutua, comunidades en torno a creadores de contenido, etc.
 
@@ -19,24 +17,13 @@ Por tanto en esta definición incluímos: tech meetups, conferencias, organizaci
 
 Ayudar a crear comunidades técnicas más: 🌱 sanas, 🧲 atractivas, 🎯 útiles, y 💪 sostenibles/resilientes.
 
-<details>
- <summary><strong>Nota</strong>: somos conscientes de que no somos los primeros en intentarlo ...</summary>
-  
- ... pero arrancamos esta porque actualmente [no encontramos ninguna activa](https://www.rauljimenez.info/es/docs/communities/other-resources-for-community-organizers#iniciativas). Intentaremos aprovechar dentro de lo posible el trabajo hecho anteriormente por otras.
-
-</details>
-
 ## Cómo lograrlo
 
 Principalmente tenemos dos líneas:
 
-* **Hub de proyectos**: Siendo un espacio para facilitar que personas con experiencia en dinamización de comunidades puedan colaborar en proyectos, y crear activos por y para la comunidad (documentación, software, etc).
+* **Hub de [proyectos](https://github.com/search?q=topic%3Aproyecto+org%3AComBuildersES+fork%3Atrue&type=repositories)**: Siendo un espacio para facilitar que personas con experiencia en dinamización de comunidades puedan colaborar en proyectos, y crear activos por y para la comunidad (documentación, software, etc).
 
-* **Lugar de encuentro y de ayuda mutua**: donde conocer y conectar con otras personas que dinamizan comunidades, poder pedir ayuda, compartir experiencias, opiniones, etc.
-
-## Proyectos
-
-Actualmente estamos usando [este tablero de Trello](https://trello.com/b/fizmMeL8/comunidad-de-personas-que-dinamizan-comunidades) pero hemos empezado a migrarlos a esta cuenta de GitHub bajo la [etiqueta proyectos](https://github.com/search?q=topic%3Aproyecto+org%3AComBuildersES+fork%3Atrue&type=repositories).
+* **[Lugar de encuentro](https://github.com/ComBuildersES/community/blob/main/README.md#encuentros) y de [ayuda mutua](https://github.com/ComBuildersES/community/blob/main/README.md#ayuda-mutua)**: donde conocer y conectar con otras personas que dinamizan comunidades, poder pedir ayuda, compartir experiencias, opiniones, etc.
 
 ## Cómo unirse a Community Builders
 
@@ -44,7 +31,8 @@ Puedes solicutar unirte si:
 * Tienes experiencia o intención de crear una comunidad técnica.
 * Te motiva el propósito que perseguimos.
 * [Aceptas y cumplir con el código de conducta](https://docs.google.com/presentation/d/1aKF09HUjtchR3m6ys2ne-zL9exFkp7I31QqJJMrFwiA/edit?usp=sharing)
-https://docs.google.com/forms/d/e/1FAIpQLSd5Idc1wG2uhHBT11veYVx6JUfrvb_ylc1WC0ZfuXykvm1rtw/viewform
+
+**Solicita unirte [rellenando este formulario](https://docs.google.com/forms/d/e/1FAIpQLSd5Idc1wG2uhHBT11veYVx6JUfrvb_ylc1WC0ZfuXykvm1rtw/viewform)**
 
 > **Nota** si tienes dudas o crees que no cumples los criterios, puedes escribirnos a communitybuilders.es@gmail.com
 
