@@ -45,3 +45,7 @@ Puedes solicutar unirte si:
   * Lista de correo: https://groups.google.com/g/community-builders-es
   * Github discussions: https://github.com/orgs/ComBuildersES/discussions
 * **YouTube**: https://www.youtube.com/@ComBuilders_ES
+
+## Preguntas frecuentes
+
+¿Tienes más dudas? Revisa [el FAQ](https://github.com/ComBuildersES/community/blob/main/FAQ.md)
