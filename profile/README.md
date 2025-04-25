@@ -21,7 +21,7 @@ Ayudar a crear comunidades técnicas más: 🌱 sanas, 🧲 atractivas, 🎯 út
 
 Principalmente tenemos dos líneas:
 
-* **Hub de [proyectos](https://github.com/search?q=topic%3Aproyecto+org%3AComBuildersES+fork%3Atrue&type=repositories)**: Siendo un espacio para facilitar que personas con experiencia en dinamización de comunidades puedan colaborar en proyectos, y crear activos por y para la comunidad (documentación, software, etc).
+* **Hub de [proyectos](https://github.com/search?q=topic%3Aproyecto+org%3AComBuildersES+fork%3Atrue&type=repositories)**: Siendo un espacio para facilitar que personas con experiencia en dinamización de comunidades puedan colaborar en proyectos, y crear activos por y para la comunidad (documentación, software, etc) (ver [otros proyectos propuestos](https://github.com/orgs/ComBuildersES/discussions/categories/ideas-y-propuestas)).
 
 * **[Lugar de encuentro](https://github.com/ComBuildersES/community-builders/tree/main?tab=readme-ov-file#encuentros) y de [ayuda mutua](https://github.com/ComBuildersES/community-builders/tree/main?tab=readme-ov-file#ayuda-mutua)**: donde conocer y conectar con otras personas que dinamizan comunidades, poder pedir ayuda, compartir experiencias, opiniones, etc.
 
