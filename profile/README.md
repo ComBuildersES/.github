@@ -39,6 +39,7 @@ Es un punto de encuentro para personas que dinamizan comunidades técnicas en Es
 |🎙️ Charlamos con Community Builders|Podcast y grabaciones a personas que dinamizan comunidades.|[**Ver más**](https://github.com/ComBuildersES/charlamos-con-community-builders)|
 |⚒️ Awesome list|Recopilación de recursos útiles para personas que gestionan comunidades.|[**Ver más**](https://github.com/ComBuildersES/awesome-community-builders)|
 |💡 Formatos de eventos|Recopilación de ideas con diferentes formatos para organizar eventos.|[**Ver más**](https://github.com/ComBuildersES/formatos-para-eventos#readme)|
+|📊 Encuesta a público potencial|Encuesta para saber cómo llegar mejor al público objetivo de las comunidades tecnológicas.|[**Ver más**](https://github.com/ComBuildersES/estudio-publico-objetivo)
 
 Aunque se han propuesto más ideas en el foro "[Ideas y propuestas](https://github.com/orgs/ComBuildersES/discussions/categories/ideas-y-propuestas)", y cualquier persona cualquier persona puede sugerir una.
 
