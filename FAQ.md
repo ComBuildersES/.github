@@ -69,9 +69,11 @@ Esto habrá que re-evaluarlo en el futuro, si crees que ya podría ser el moment
 * Si no lo tiene abre un `issue` en el repositorio. 
 * Si no te responden escríbenos a [communitybuilders.es@gmail.com](mailto:communitybuilders.es@gmail.com)
 
-### ¿Cómo creo un nuevo proyecto?
+### ¿¿Cómo creo un nuevo proyecto?
 
 > **Importante**: Para empezar un nuevo proyecto tienes que formar parte de community builders
+
+¿Hace falta algo más?, ¿o cualquiera puede?, cualquiera puede, aunque las personas nuevas deben contar con una persona de PMC que la mentorize.
 
 Primero, es importante que sepas que seguimos un sistema de '[do-ocracy](https://wiki.osgeo.org/wiki/Do-ocracy)', como indicamos en [nuestro manifiesto](https://docs.google.com/presentation/d/1aKF09HUjtchR3m6ys2ne-zL9exFkp7I31QqJJMrFwiA/edit#slide=id.g5bac538b3c_0_27). Por eso, animamos a todas las personas con ganas de colaborar a que simplemente lo hagan. Por eso, si aún no lo has hecho, lo primero que debes hacer es [enviar tu idea/propuesta aquí](https://github.com/orgs/ComBuildersES/discussions/categories/ideas-y-propuestas) explicando:
 - En qué consiste
