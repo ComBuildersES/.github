@@ -45,6 +45,6 @@ También puedes visitar el foro "[Ideas y propuestas](https://github.com/orgs/Co
 
 📢 **Novedades**: Consulta [los boletines](https://github.com/orgs/ComBuildersES/discussions/categories/novedades) y [síguenos en redes](https://linktr.ee/ComBuilders_ES) para saber qué está pasando.
 
-❓ **Preguntas frecuentes**: ¿Tienes más dudas? Revisa [el FAQ](https://github.com/ComBuildersES/community/blob/main/FAQ.md).
+❓ **Preguntas frecuentes**: ¿Tienes más dudas? Revisa [el FAQ](https://github.com/ComBuildersES/.github/blob/main/FAQ.md).
 
 ✍️ **¿Quieres unirte?**: [Rellena este formulario](https://docs.google.com/forms/d/e/1FAIpQLSd5Idc1wG2uhHBT11veYVx6JUfrvb_ylc1WC0ZfuXykvm1rtw/viewform).
