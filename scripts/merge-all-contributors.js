@@ -125,7 +125,7 @@ const path = require('path');
     // La estructura mínima: solo un array "contributors".
     contributors: mergedContributors
   };
-  const jsonPath = path.join(__dirname, '.all-contributorsrc');
+  const jsonPath = path.join(process.cwd(), '.all-contributorsrc');
   await fs.writeFile(jsonPath, JSON.stringify(outputJson, null, 2), 'utf8');
   console.log(`✓ Se escribió archivo JSON unificado en: ${jsonPath}`);
 
@@ -184,7 +184,7 @@ const path = require('path');
   mdLines.push('</table>');
 
   const mdContent = mdLines.join('\n');
-  const mdPath = path.join(__dirname, 'CONTRIBUTORS.md');
+  const mdPath = path.join(process.cwd(), 'CONTRIBUTORS.md');
   await fs.writeFile(mdPath, mdContent, 'utf8');
   console.log(`✓ Se escribió CONTRIBUTORS.md en: ${mdPath}`);
 
