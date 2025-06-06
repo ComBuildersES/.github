@@ -20,7 +20,7 @@ Es un punto de encuentro para personas que dinamizan comunidades técnicas<sup>1
 
 🎯 **Objetivo**: Servir de punto de referencia para conectar con otras personas que dinamizan comunidades y facilitar la colaboración entre aquellas con intereses comunes.
 
-👤 **Quienes somos**: Somos varias decenas de personas. Puedes ver algunos nombres y caras en [este issue](https://github.com/ComBuildersES/punto-de-encuentro/issues/30) y nuestras redes.
+👤 **Quienes somos**: Puedes consultar las personas están contribuyendo publicamente a las iniciativas en el [CONTRIBUTORS.md](https://github.com/ComBuildersES/.github/blob/main/CONTRIBUTORS.md).
 
 ## Organización
 
