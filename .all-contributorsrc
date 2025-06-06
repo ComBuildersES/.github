@@ -15,6 +15,17 @@
       ]
     },
     {
+      "login": "draxus",
+      "name": "Manuel Martín",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2436?v=4",
+      "profile": "https://www.draxus.org/",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "awesome-community-builders",
+        "charlamos-con-community-builders"
+      ]
+    },
+    {
       "login": "julietazalduendo",
       "name": "Julieta Zalduendo",
       "avatar_url": "https://avatars.githubusercontent.com/u/98886279?v=4",
@@ -70,16 +81,6 @@
       ]
     },
     {
-      "login": "DraXus",
-      "name": "Manuel Martín",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2436?v=4",
-      "profile": "https://www.draxus.org/",
-      "contributions": [
-        "estudio-publico-objetivo",
-        "charlamos-con-community-builders"
-      ]
-    },
-    {
       "login": "luismesalas",
       "name": "Luis Mesa",
       "avatar_url": "https://avatars.githubusercontent.com/u/7116402?v=4",
@@ -110,7 +111,7 @@
       ]
     },
     {
-      "login": "Manosfrias",
+      "login": "manosfrias",
       "name": "Ana Manosfrias",
       "avatar_url": "https://avatars.githubusercontent.com/u/10085811?v=4",
       "profile": "https://www.linkedin.com/in/anagilamor/",
@@ -140,6 +141,16 @@
       ]
     },
     {
+      "login": "neovasili",
+      "name": "Juan Manuel Ruiz Fernández",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6529592?v=4",
+      "profile": "https://linktr.ee/neovasili",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "nujovich",
       "name": "Nadia Ujovich",
       "avatar_url": "https://avatars.githubusercontent.com/u/48018975?v=4",
@@ -160,7 +171,7 @@
       ]
     },
     {
-      "login": "AbrahamOtero",
+      "login": "abrahamotero",
       "name": "AbrahamOtero",
       "avatar_url": "https://avatars.githubusercontent.com/u/5107030?v=4",
       "profile": "https://github.com/AbrahamOtero",
@@ -209,25 +220,7 @@
       ]
     },
     {
-      "login": "draxus",
-      "name": "Manuel Martín",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2436?v=4",
-      "profile": "https://www.draxus.org/",
-      "contributions": [
-        "awesome-community-builders"
-      ]
-    },
-    {
-      "login": "neovasili",
-      "name": "Juan Manuel Ruiz Fernández",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6529592?v=4",
-      "profile": "https://linktr.ee/neovasili",
-      "contributions": [
-        "charlamos-con-community-builders"
-      ]
-    },
-    {
-      "login": "MrAceitun0",
+      "login": "mraceitun0",
       "name": "MrAceitun0",
       "avatar_url": "https://avatars.githubusercontent.com/u/38362404?v=4",
       "profile": "https://github.com/MrAceitun0",
@@ -254,7 +247,7 @@
       ]
     },
     {
-      "login": "Aleixbs",
+      "login": "aleixbs",
       "name": "Aleix Batlle",
       "avatar_url": "https://avatars.githubusercontent.com/u/84009394?v=4",
       "profile": "https://github.com/Aleixbs",
@@ -308,7 +301,7 @@
       ]
     },
     {
-      "login": "PeterPaulez",
+      "login": "peterpaulez",
       "name": "Pedro Pablo Aparicio",
       "avatar_url": "https://avatars.githubusercontent.com/u/74605730?v=4",
       "profile": "https://aparicio.it",
@@ -330,15 +323,6 @@
       "name": "Adrián",
       "avatar_url": "https://avatars.githubusercontent.com/u/22575055?v=4",
       "profile": "https://github.com/aguadotzn",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "NeoVasili",
-      "name": "Juan Manuel Ruiz Fernández",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6529592?v=4",
-      "profile": "https://linktr.ee/neovasili",
       "contributions": [
         "punto-de-encuentro"
       ]
@@ -371,7 +355,7 @@
       ]
     },
     {
-      "login": "Qwor01",
+      "login": "qwor01",
       "name": "Ignacio Espósito",
       "avatar_url": "https://avatars.githubusercontent.com/u/113616553?v=4",
       "profile": "https://github.com/Qwor01",
@@ -425,7 +409,7 @@
       ]
     },
     {
-      "login": "Beelzenef",
+      "login": "beelzenef",
       "name": "Elena.NET",
       "avatar_url": "https://avatars.githubusercontent.com/u/6389665?v=4",
       "profile": "http://beelzenef.github.io",
@@ -443,7 +427,7 @@
       ]
     },
     {
-      "login": "Naish21",
+      "login": "naish21",
       "name": "Jorge",
       "avatar_url": "https://avatars.githubusercontent.com/u/5855639?v=4",
       "profile": "http://about.me/jorgearanda",
