@@ -27,8 +27,6 @@ jobs:
       # 3) Instalar la dependencia axios (el script la necesita para descargar los JSON).
       - name: Install dependencies
         run: |
-          npm init -y
-          npm pkg set name="merge-contributors"
           npm install axios
 
       # 4) Ejecutar el script que fusiona los .all-contributorsrc
