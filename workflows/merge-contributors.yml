@@ -1,0 +1,47 @@
+name: Merge All-Contributors
+
+# 1. Se dispara cada día a las 00:00 UTC (puedes cambiar el cron si quieres otra hora).
+# 2. Añadimos workflow_dispatch para permitir ejecutarlo manualmente desde la pestaña "Actions".
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  merge-contributors:
+    name: Ejecutar script de fusión
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Comprobar el repo para tener acceso a merge-all-contributors.js
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        # Por defecto esto hace checkout en el repositorio actual (ComBuildersES/.github).
+
+      # 2) Instalar Node.js (versión LTS, por ejemplo 18)
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # 3) Instalar la dependencia axios (el script la necesita para descargar los JSON).
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install axios
+
+      # 4) Ejecutar el script que fusiona los .all-contributorsrc
+      - name: Run merge-all-contributors script
+        run: |
+          node scripts/merge-all-contributors.js
+
+      # 5) (Opcional) Commit y push de los resultados al mismo repo, si quieres que
+      #    el JSON unificado y el CONTRIBUTORS.md se actualicen automáticamente.
+      - name: Commit & Push generated files
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add merged-all-contributorsrc.json CONTRIBUTORS.md
+          git diff --quiet || git commit -m "⟲ Actualizar CONTRIBUTORS" 
+          git push
