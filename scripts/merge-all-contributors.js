@@ -79,7 +79,7 @@ const path = require('path');
 
       // 4) Para cada contributor, extraemos los campos básicos y asociamos el repoName
       for (const contrib of json.contributors) {
-        const login = contrib.login;
+        const login = contrib.login.toLowerCase();
         const name = contrib.name || contrib.login;
         // El JSON oficial de all-contributors suele incluir avatar_url y profile (o html_url)
         const avatar_url = contrib.avatar_url || contrib.avatar; 
