@@ -1,0 +1,491 @@
+{
+  "contributors": [
+    {
+      "login": "hhkaos",
+      "name": "Raul Jimenez Ortega",
+      "avatar_url": "https://avatars.githubusercontent.com/u/826965?v=4",
+      "profile": "https://www.rauljimenez.info",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "formatos-para-eventos",
+        "awesome-community-builders",
+        "charlamos-con-community-builders",
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "julietazalduendo",
+      "name": "Julieta Zalduendo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98886279?v=4",
+      "profile": "https://www.mytechplan.com/",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "oskarcalvo",
+      "name": "Oskar Calvo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85880?v=4",
+      "profile": "https://github.com/oskarcalvo",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "yisus82",
+      "name": "Jesús Ángel Pérez-Roca Fernández",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7774855?v=4",
+      "profile": "https://yisus82.github.io/",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "anabuigues",
+      "name": "Ana Buigues",
+      "avatar_url": "https://avatars.githubusercontent.com/u/592441?v=4",
+      "profile": "http://anabuigues.com",
+      "contributions": [
+        "formatos-para-eventos",
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "astrojuanlu",
+      "name": "Juan Luis Cano Rodríguez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316517?v=4",
+      "profile": "https://github.com/astrojuanlu",
+      "contributions": [
+        "formatos-para-eventos",
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "DraXus",
+      "name": "Manuel Martín",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2436?v=4",
+      "profile": "https://www.draxus.org/",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "charlamos-con-community-builders"
+      ]
+    },
+    {
+      "login": "luismesalas",
+      "name": "Luis Mesa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7116402?v=4",
+      "profile": "https://www.linkedin.com/in/mesa",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "cldelgadop",
+      "name": "Carmen Delgado",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62181574?v=4",
+      "profile": "https://github.com/cldelgadop",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "charlamos-con-community-builders"
+      ]
+    },
+    {
+      "login": "deors",
+      "name": "Jorge Hidalgo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4376867?v=4",
+      "profile": "http://deors.wordpress.com",
+      "contributions": [
+        "formatos-para-eventos",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "Manosfrias",
+      "name": "Ana Manosfrias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10085811?v=4",
+      "profile": "https://www.linkedin.com/in/anagilamor/",
+      "contributions": [
+        "formatos-para-eventos",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "mario-ezquerro",
+      "name": "Mario",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4250161?v=4",
+      "profile": "http://gdglarioja.blogspot.com.es/",
+      "contributions": [
+        "awesome-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "javiervelezreyes",
+      "name": "Javier Vélez Reyes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6446073?v=4",
+      "profile": "http://javiervelezreyes.com",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "nujovich",
+      "name": "Nadia Ujovich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48018975?v=4",
+      "profile": "https://www.linkedin.com/in/nadiaujovich/",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "reiaguilera",
+      "name": "Rei Aguilera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186906?v=4",
+      "profile": "http://reiaguilera.com",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "AbrahamOtero",
+      "name": "AbrahamOtero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5107030?v=4",
+      "profile": "https://github.com/AbrahamOtero",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "ilopmar",
+      "name": "Iván López",
+      "avatar_url": "https://avatars.githubusercontent.com/u/559192?v=4",
+      "profile": "https://github.com/ilopmar",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "xavidop",
+      "name": "Xavier Portilla Edo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4416096?v=4",
+      "profile": "https://xavidop.me/",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "lucascervera",
+      "name": "Lucas Cervera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2197153?v=4",
+      "profile": "https://lucascervera.com",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "jsmanrique",
+      "name": "Manrique Lopez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1178305?v=4",
+      "profile": "http://jsmanrique.es",
+      "contributions": [
+        "awesome-community-builders"
+      ]
+    },
+    {
+      "login": "draxus",
+      "name": "Manuel Martín",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2436?v=4",
+      "profile": "https://www.draxus.org/",
+      "contributions": [
+        "awesome-community-builders"
+      ]
+    },
+    {
+      "login": "neovasili",
+      "name": "Juan Manuel Ruiz Fernández",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6529592?v=4",
+      "profile": "https://linktr.ee/neovasili",
+      "contributions": [
+        "charlamos-con-community-builders"
+      ]
+    },
+    {
+      "login": "MrAceitun0",
+      "name": "MrAceitun0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38362404?v=4",
+      "profile": "https://github.com/MrAceitun0",
+      "contributions": [
+        "charlamos-con-community-builders"
+      ]
+    },
+    {
+      "login": "manuelsaezcarmona",
+      "name": "Manuel Saez Carmona",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70754764?v=4",
+      "profile": "https://manuelsaezcarmona.netlify.app/",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
+      "login": "alvarogtrzcliment",
+      "name": "Álvaro Gutiérrez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124072319?v=4",
+      "profile": "https://github.com/alvarogtrzcliment",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
+      "login": "Aleixbs",
+      "name": "Aleix Batlle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84009394?v=4",
+      "profile": "https://github.com/Aleixbs",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
+      "login": "kdarrey",
+      "name": "kdarrey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3646738?v=4",
+      "profile": "https://github.com/kdarrey",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "jecaestevez",
+      "name": "Jesus Estevez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1833176?v=4",
+      "profile": "http://jecaestevez.com",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "v4n3ss4ms",
+      "name": "Vanessa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6459533?v=4",
+      "profile": "https://github.com/v4n3ss4ms",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "guldoe",
+      "name": "Daniel Castañera Garrido",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6005590?v=4",
+      "profile": "https://www.danielcastanera.com",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "npatarino",
+      "name": "Nicolás Patarino",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209096?v=4",
+      "profile": "https://github.com/npatarino",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "PeterPaulez",
+      "name": "Pedro Pablo Aparicio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74605730?v=4",
+      "profile": "https://aparicio.it",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "alvarosaugar",
+      "name": "Álvaro Saugar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37780691?v=4",
+      "profile": "https://github.com/alvarosaugar",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "aguadotzn",
+      "name": "Adrián",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22575055?v=4",
+      "profile": "https://github.com/aguadotzn",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "NeoVasili",
+      "name": "Juan Manuel Ruiz Fernández",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6529592?v=4",
+      "profile": "https://linktr.ee/neovasili",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "eun-plata",
+      "name": "Eun Young Cho (Plata)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25737523?v=4",
+      "profile": "https://github.com/eun-plata",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "yondemon",
+      "name": "Pablo Rod.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1371816?v=4",
+      "profile": "http://amorodio.es",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "manufosela",
+      "name": "Mánu Fosela",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1101670?v=4",
+      "profile": "https://manufosela.es",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "Qwor01",
+      "name": "Ignacio Espósito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113616553?v=4",
+      "profile": "https://github.com/Qwor01",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "jorgeteixe",
+      "name": "Jorge Teixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45232371?v=4",
+      "profile": "https://teixe.es",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "mariomnts",
+      "name": "Mario Montes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5486339?v=4",
+      "profile": "https://www.linkedin.com/in/mariomnts",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "angelisco1",
+      "name": "Ángel Villalba Fernández-Paniagua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6765239?v=4",
+      "profile": "https://github.com/angelisco1",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "joanviladomat",
+      "name": "Joan Viladomat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35274981?v=4",
+      "profile": "https://joanviladomat.github.io",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "picsoung",
+      "name": "Nicolas Grenié",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172072?v=4",
+      "profile": "https://nicolasgrenie.com",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "Beelzenef",
+      "name": "Elena.NET",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6389665?v=4",
+      "profile": "http://beelzenef.github.io",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "dbonillaf",
+      "name": "David Bonilla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293330?v=4",
+      "profile": "http://www.bonillaware.com",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "Naish21",
+      "name": "Jorge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5855639?v=4",
+      "profile": "http://about.me/jorgearanda",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "andreamagan",
+      "name": "Andrea Magán Rey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45942798?v=4",
+      "profile": "https://github.com/andreamagan",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "svg153",
+      "name": "Sergio Valverde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9192031?v=4",
+      "profile": "http://svg153.github.io",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "alexao8",
+      "name": "Alex Alemany",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61477091?v=4",
+      "profile": "https://github.com/alexao8",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "bcaldeiro-icam",
+      "name": "bcaldeiro-icam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206851346?v=4",
+      "profile": "https://github.com/bcaldeiro-icam",
+      "contributions": [
+        "punto-de-encuentro"
+      ]
+    }
+  ]
+}
