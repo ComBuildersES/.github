@@ -12,7 +12,6 @@
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(4)</a>
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(5)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(6)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.mytechplan.com/">
@@ -22,7 +21,6 @@
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/oskarcalvo">
@@ -32,7 +30,6 @@
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://yisus82.github.io/">
@@ -42,7 +39,6 @@
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://anabuigues.com">
@@ -52,7 +48,6 @@
         <a href="https://github.com/ComBuildersES/formatos-para-eventos" title="formatos-para-eventos">(1)</a>
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/astrojuanlu">
@@ -62,7 +57,6 @@
         <a href="https://github.com/ComBuildersES/formatos-para-eventos" title="formatos-para-eventos">(1)</a>
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.draxus.org/">
@@ -71,7 +65,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
-
       </td>
     </tr>
     <tr>
@@ -82,7 +75,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/cldelgadop">
@@ -91,7 +83,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://deors.wordpress.com">
@@ -100,7 +91,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/formatos-para-eventos" title="formatos-para-eventos">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/anagilamor/">
@@ -109,7 +99,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/formatos-para-eventos" title="formatos-para-eventos">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://gdglarioja.blogspot.com.es/">
@@ -118,7 +107,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://javiervelezreyes.com">
@@ -127,7 +115,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/nadiaujovich/">
@@ -136,7 +123,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
     </tr>
     <tr>
@@ -147,7 +133,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/AbrahamOtero">
@@ -156,7 +141,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/ilopmar">
@@ -165,7 +149,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://xavidop.me/">
@@ -174,7 +157,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://lucascervera.com">
@@ -183,7 +165,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://jsmanrique.es">
@@ -191,7 +172,6 @@
           <sub><b>Manrique Lopez</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.draxus.org/">
@@ -199,7 +179,6 @@
           <sub><b>Manuel Martín</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
-
       </td>
     </tr>
     <tr>
@@ -209,7 +188,6 @@
           <sub><b>Juan Manuel Ruiz Fernández</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/MrAceitun0">
@@ -217,7 +195,6 @@
           <sub><b>MrAceitun0</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://manuelsaezcarmona.netlify.app/">
@@ -225,7 +202,6 @@
           <sub><b>Manuel Saez Carmona</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/alvarogtrzcliment">
@@ -233,7 +209,6 @@
           <sub><b>Álvaro Gutiérrez</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/Aleixbs">
@@ -241,7 +216,6 @@
           <sub><b>Aleix Batlle</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/kdarrey">
@@ -249,7 +223,6 @@
           <sub><b>kdarrey</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://jecaestevez.com">
@@ -257,7 +230,6 @@
           <sub><b>Jesus Estevez</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
     </tr>
     <tr>
@@ -267,7 +239,6 @@
           <sub><b>Vanessa</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.danielcastanera.com">
@@ -275,7 +246,6 @@
           <sub><b>Daniel Castañera Garrido</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/npatarino">
@@ -283,7 +253,6 @@
           <sub><b>Nicolás Patarino</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://aparicio.it">
@@ -291,7 +260,6 @@
           <sub><b>Pedro Pablo Aparicio</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/alvarosaugar">
@@ -299,7 +267,6 @@
           <sub><b>Álvaro Saugar</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/aguadotzn">
@@ -307,7 +274,6 @@
           <sub><b>Adrián</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://linktr.ee/neovasili">
@@ -315,7 +281,6 @@
           <sub><b>Juan Manuel Ruiz Fernández</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
     </tr>
     <tr>
@@ -325,7 +290,6 @@
           <sub><b>Eun Young Cho (Plata)</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://amorodio.es">
@@ -333,7 +297,6 @@
           <sub><b>Pablo Rod.</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://manufosela.es">
@@ -341,7 +304,6 @@
           <sub><b>Mánu Fosela</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/Qwor01">
@@ -349,7 +311,6 @@
           <sub><b>Ignacio Espósito</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://teixe.es">
@@ -357,7 +318,6 @@
           <sub><b>Jorge Teixeira</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/mariomnts">
@@ -365,7 +325,6 @@
           <sub><b>Mario Montes</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/angelisco1">
@@ -373,7 +332,6 @@
           <sub><b>Ángel Villalba Fernández-Paniagua</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
     </tr>
     <tr>
@@ -383,7 +341,6 @@
           <sub><b>Joan Viladomat</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://nicolasgrenie.com">
@@ -391,7 +348,6 @@
           <sub><b>Nicolas Grenié</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://beelzenef.github.io">
@@ -399,7 +355,6 @@
           <sub><b>Elena.NET</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://www.bonillaware.com">
@@ -407,7 +362,6 @@
           <sub><b>David Bonilla</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://about.me/jorgearanda">
@@ -415,7 +369,6 @@
           <sub><b>Jorge</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/andreamagan">
@@ -423,7 +376,6 @@
           <sub><b>Andrea Magán Rey</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="http://svg153.github.io">
@@ -431,7 +383,6 @@
           <sub><b>Sergio Valverde</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
     </tr>
     <tr>
@@ -441,7 +392,6 @@
           <sub><b>Alex Alemany</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/bcaldeiro-icam">
@@ -449,7 +399,6 @@
           <sub><b>bcaldeiro-icam</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-
       </td>
     </tr>
   </tbody>
