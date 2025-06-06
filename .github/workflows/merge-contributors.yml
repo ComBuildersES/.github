@@ -28,6 +28,7 @@ jobs:
       - name: Install dependencies
         run: |
           npm init -y
+          npm pkg set name="merge-contributors"
           npm install axios
 
       # 4) Ejecutar el script que fusiona los .all-contributorsrc
