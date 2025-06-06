@@ -38,6 +38,13 @@ jobs:
         run: |
           ls -la .
 
+      - name: Show git status
+        run: git status
+
+      - name: Show git diff
+        run: |
+          git diff || echo "No hay diferencias de contenido"
+
       # 5) (Opcional) Commit y push de los resultados al mismo repo, si quieres que
       #    el JSON unificado y el CONTRIBUTORS.md se actualicen automáticamente.
       - name: Commit & Push generated files
@@ -46,5 +53,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .all-contributorsrc CONTRIBUTORS.md
-          git diff --quiet || git commit -m "⟲ Actualizar CONTRIBUTORS" 
-          git push
+          git commit -m "⟲ Actualizar CONTRIBUTORS" 
+          
+          # Sólo hacemos commit si hay cambios en staging
+          if ! git diff --staged --quiet; then
+            git commit -m "⟲ Actualizar CONTRIBUTORS"
+            git push origin HEAD:main
+          else
+            echo "No hay cambios para commitear."
+          fi
