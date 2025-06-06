@@ -174,7 +174,6 @@ const path = require('path');
       });
 
       // 3) Texto estático final:
-      mdLines.push('');
       mdLines.push('      </td>');
     }
     mdLines.push('    </tr>');
