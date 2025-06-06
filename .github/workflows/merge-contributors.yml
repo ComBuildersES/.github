@@ -17,11 +17,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         # Por defecto esto hace checkout en el repositorio actual (ComBuildersES/.github).
-
-
-      - name: List files for debugging
-        run: |
-          ls -la .
           
       # 2) Instalar Node.js (versión LTS, por ejemplo 18)
       - name: Set up Node.js
@@ -38,13 +33,6 @@ jobs:
       - name: Run merge-all-contributors script
         run: |
           node scripts/merge-all-contributors.js
-
-      - name: List files for debugging
-        run: |
-          ls -la .
-
-      - name: Show git status
-        run: git status
 
       # 5) (Opcional) Commit y push de los resultados al mismo repo, si quieres que
       #    el JSON unificado y el CONTRIBUTORS.md se actualicen automáticamente.
