@@ -41,6 +41,10 @@ const path = require('path');
     {
       url: 'https://raw.githubusercontent.com/ComBuildersES/punto-de-encuentro/refs/heads/main/.all-contributorsrc',
       repoName: 'punto-de-encuentro'
+    },
+    {
+      url: 'https://raw.githubusercontent.com/ComBuildersES/ComBuildersES.github.io/refs/heads/master/.all-contributorsrc',
+      repoName: 'ComBuildersES.github.io'
     }
   ];
 
