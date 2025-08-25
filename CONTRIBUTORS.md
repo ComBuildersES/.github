@@ -177,14 +177,22 @@
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/andreamagan">
+          <img src="https://avatars.githubusercontent.com/u/45942798?v=4" width="100px;" alt="andreamagan"/><br />
+          <sub><b>Andrea Magán Rey</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
+        <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
         <a href="http://jsmanrique.es">
           <img src="https://avatars.githubusercontent.com/u/1178305?v=4" width="100px;" alt="jsmanrique"/><br />
           <sub><b>Manrique Lopez</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://jonthebeach.com">
           <img src="https://avatars.githubusercontent.com/u/12547113?v=4" width="100px;" alt="lsybarguen"/><br />
@@ -227,6 +235,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://jecaestevez.com">
           <img src="https://avatars.githubusercontent.com/u/1833176?v=4" width="100px;" alt="jecaestevez"/><br />
@@ -234,8 +244,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/v4n3ss4ms">
           <img src="https://avatars.githubusercontent.com/u/6459533?v=4" width="100px;" alt="v4n3ss4ms"/><br />
@@ -278,6 +286,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/eun-plata">
           <img src="https://avatars.githubusercontent.com/u/25737523?v=4" width="100px;" alt="eun-plata"/><br />
@@ -285,8 +295,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://amorodio.es">
           <img src="https://avatars.githubusercontent.com/u/1371816?v=4" width="100px;" alt="yondemon"/><br />
@@ -329,6 +337,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://joanviladomat.github.io">
           <img src="https://avatars.githubusercontent.com/u/35274981?v=4" width="100px;" alt="joanviladomat"/><br />
@@ -336,8 +346,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://nicolasgrenie.com">
           <img src="https://avatars.githubusercontent.com/u/172072?v=4" width="100px;" alt="picsoung"/><br />
@@ -363,13 +371,6 @@
         <a href="http://about.me/jorgearanda">
           <img src="https://avatars.githubusercontent.com/u/5855639?v=4" width="100px;" alt="naish21"/><br />
           <sub><b>Jorge</b></sub>
-        </a><br />
-        <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/andreamagan">
-          <img src="https://avatars.githubusercontent.com/u/45942798?v=4" width="100px;" alt="andreamagan"/><br />
-          <sub><b>Andrea Magán Rey</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>

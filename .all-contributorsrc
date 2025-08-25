@@ -212,6 +212,16 @@
       ]
     },
     {
+      "login": "andreamagan",
+      "name": "Andrea Magán Rey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45942798?v=4",
+      "profile": "https://github.com/andreamagan",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "jsmanrique",
       "name": "Manrique Lopez",
       "avatar_url": "https://avatars.githubusercontent.com/u/1178305?v=4",
@@ -441,15 +451,6 @@
       "name": "Jorge",
       "avatar_url": "https://avatars.githubusercontent.com/u/5855639?v=4",
       "profile": "http://about.me/jorgearanda",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "andreamagan",
-      "name": "Andrea Magán Rey",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45942798?v=4",
-      "profile": "https://github.com/andreamagan",
       "contributions": [
         "punto-de-encuentro"
       ]
