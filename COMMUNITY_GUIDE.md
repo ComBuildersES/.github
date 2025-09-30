@@ -28,7 +28,7 @@ Aquí encontrarás lo esencial para ubicarte y elegir cómo participar.
 
 Personas con ganas de formar comunidad y colaborar, guiadas por este [`código de conducta`](./CODE_OF_CONDUCT.md).
 
-Puedes saber más en sobre quienes participan activamente [nuestra web](https://combuilderses.github.io/), o en [este fichero](https://github.com/ComBuildersES/.github/blob/main/CONTRIBUTORS.md) y en la sección `# Contributors` de cada repositorio, donde verás en qué iniciativas han colaborado.
+Puedes saber más sobre quienes participan activamente en [nuestra web](https://combuilderses.github.io/), o en [este fichero](https://github.com/ComBuildersES/.github/blob/main/CONTRIBUTORS.md) y en la sección `# Contributors` de cada repositorio, donde verás en qué iniciativas han colaborado.
 
 <details>
 <summary>Detalles de las personas que dinamizan comunidades y han completado <a href="https://github.com/ComBuildersES/gestion-interna/blob/main/.github/ISSUE_TEMPLATE/hacer-onboarding.md">el proceso de onboarding</a></summary>
