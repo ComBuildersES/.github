@@ -12,7 +12,7 @@
 - [Sobre los proyectos](#sobre-los-proyectos)
   - [¿Cómo puedo participar en un proyecto existente?](#%C2%BFc%C3%B3mo-puedo-participar-en-un-proyecto-existente)
   - [¿Cómo creo un nuevo proyecto?](#%C2%BFc%C3%B3mo-creo-un-nuevo-proyecto)
-- [¿Tienes más preguntas?](#%C2%BFtienes-m%C3%A1s-preguntas)
+- [¿Tienes más preguntas?](#tienes-más-preguntas)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -69,7 +69,7 @@ Esto habrá que re-evaluarlo en el futuro, si crees que ya podría ser el moment
 * Si no lo tiene abre un `issue` en el repositorio. 
 * Si no te responden escríbenos a [communitybuilders.es@gmail.com](mailto:communitybuilders.es@gmail.com)
 
-### ¿¿Cómo creo un nuevo proyecto?
+### ¿Cómo creo un nuevo proyecto?
 
 > **Importante**: Para empezar un nuevo proyecto tienes que formar parte de community builders
 
@@ -92,4 +92,9 @@ Si tienes cualquier problema escríbenos a [communitybuilders.es@gmail.com](mail
 
 ## ¿Tienes más preguntas?
 
-Abre un issue. Que no te de vergüenza preguntar **lo que sea**. Si algo no se ha compartido/explicado correctamente asume ha que sido por descuido, no con mala intención, o con intención de ocultar nada.
+Que no te dé vergüenza preguntar **lo que sea** 😄. Tienes varias opciones:
+* **Sobre la comunidad**: [este GitHub Discussions](https://github.com/orgs/ComBuildersES/discussions/categories/dudas-q-a) (menciona a `@ComBuildersES/admins`).
+* **Sobre una iniciativa**: contacta a los responsables de la iniciativa.
+* **Temas sensibles**: Escribe a communitybuilders.es@gmail.com.
+
+> **Nota:** Si algo no se ha dicho o está bien explicado, piensa que ha sido despiste, no mala intención 😜.
