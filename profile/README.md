@@ -1,9 +1,9 @@
 # Community Builders
 
-Es un punto de encuentro para personas que dinamizan comunidades técnicas en España.
+Es un punto de encuentro para personas que dinamizan comunidades técnicas<sup>1</sup> en España.
 
 > <details>
-> <summary><strong>Comunidades técnicas (versión TL;DR⚡️)</strong>: Tech meetups, conferencias, organizaciones paraguas, hacklabs, grupos colaborativo, meta comunidades, grupos de ayuda mutua, comunidades en torno a creadores de contenido, etc.</summary>
+> <summary><strong>1. Comunidades relacionadas con la informática.</strong> Versión TL;DR⚡️: tech meetups, conferencias técnicas, organizaciones paraguas (tipo: GDG, Python España, PyData, ...), <a href="https://en.wikipedia.org/wiki/Hackerspace">hacklabs</a>, grupos colaborativo, meta comunidades, grupos de ayuda mutua, comunidades en torno a personas que generan contenidos, etc.</summary>
 > 
 > ----
 > 
@@ -18,39 +18,33 @@ Es un punto de encuentro para personas que dinamizan comunidades técnicas en Es
 > ---
 > </details>
 
----
+🎯 **Objetivo**: Servir de punto de referencia para conectar con otras personas que dinamizan comunidades y facilitar la colaboración entre aquellas con intereses comunes.
 
-🎯 **OBJETIVO**: Servir de punto de referencia para conectar con otras personas que dinamizan comunidades y facilitar la colaboración entre aquellas con intereses comunes.
+👤 **Quienes somos**: Puedes consultar las personas están contribuyendo publicamente a las iniciativas en el [CONTRIBUTORS.md](https://github.com/ComBuildersES/.github/blob/main/CONTRIBUTORS.md).
 
----
+## Organización
 
-👤 **QUIENES SOMOS**: Somos más de 60 personas. Hasta que tengamos un listado público... puedes ver una lista en [este issue](https://github.com/ComBuildersES/punto-de-encuentro/issues/30).
-
----
-
-ℹ️ **ORGANIZACIÓN**: La actividad se organiza en torno a [iniciativas]([community-builders](https://github.com/search?q=topic%3Acommunity-builders+org%3AComBuildersES+fork%3Atrue&type=repositories)). Cada iniciativa se **auto-organiza alrededor de un repositorio** (como cualquier proyecto open source), con sus correspondientes ficheros `CONTRIBUTING.md`, `README.md`, etc.
+La actividad se organiza en torno a [iniciativas]([community-builders](https://github.com/search?q=topic%3Acommunity-builders+org%3AComBuildersES+fork%3Atrue&type=repositories)). Cada iniciativa se **auto-organiza alrededor de un repositorio**, y seguimos las dinámicas de cualquier proyecto open source, usando ficheros `CONTRIBUTING.md`, `README.md`, issues, etc.
 
 **Algunos** ejemplos de iniciativas en marcha son:
 
 |Iniciativa|Descripción|Repositorio|
 |---|---|---|
-|🗣️ Punto de encuentro|Facilitar el networking, el intercambio de experiencia y la ayuda mutua entre personas que dinamizan comunidades.|[**Ver más**](https://github.com/ComBuildersES/punto-de-encuentro#readme)|
-|🔍 Directorio de comunidades|Directorio/buscador web de comunidades tech de España e hispanohablantes (online).|[**Ver más**](https://github.com/ComBuildersES/communities-directory#readme)|
-|🎙️ Charlamos con Community Builders|Podcast y grabaciones a personas que dinamizan comunidades.|[**Ver más**](https://github.com/ComBuildersES/charlamos-con-community-builders)|
-|⚒️ Awesome list|Recopilación de recursos útiles para personas que gestionan comunidades.|[**Ver más**](https://github.com/ComBuildersES/awesome-community-builders)|
-|💡 Formatos de eventos|Recopilación de ideas con diferentes formatos para organizar eventos.|[**Ver más**](https://github.com/ComBuildersES/formatos-para-eventos#readme)|
-|📊 Encuesta a público potencial|Encuesta para saber cómo llegar mejor al público objetivo de las comunidades tecnológicas.|[**Ver más**](https://github.com/ComBuildersES/estudio-publico-objetivo)
+|🗣️ Punto de encuentro|Facilitar el networking (online y presencial), el intercambio de experiencias y la ayuda mutua entre personas que dinamizan comunidades.|[**+ info**](https://github.com/ComBuildersES/punto-de-encuentro#readme)|
+|🔍 Directorio de comunidades|Web que reúne +500 comunidades tech de España y otras hispanohablantes (online).|[**+ info**](https://github.com/ComBuildersES/communities-directory#readme)|
+|🎙️ Charlamos con Community Builders|Podcast y vídeos para conocer mejor a las personas que forman Community Builders y las comunidades a las que representan..|[**+ info**](https://github.com/ComBuildersES/charlamos-con-community-builders)|
+|⚒️ Awesome list|Recopilación de recursos útiles para personas que gestionan comunidades (ej: herramientas para gestionar tickets, redes sociales, recibir financiación, calendarios compartidos, ...).|[**+ info**](https://github.com/ComBuildersES/awesome-community-builders)|
+|💡 Formatos de eventos|Recopilación con +20 diferentes dinámicas de eventos: open space, coding dojo, peer reviews, mesas redondas, pizza nights, AMA, etc.|[**+ info**](https://github.com/ComBuildersES/formatos-para-eventos#readme)|
+|📊 Encuesta a público potencial|Encuesta y resultados (en abierto) para saber cómo llegar mejor al público objetivo de las comunidades tecnológicas.|[**+ info**](https://github.com/ComBuildersES/estudio-publico-objetivo)
 
-Aunque se han propuesto más ideas en el foro "[Ideas y propuestas](https://github.com/orgs/ComBuildersES/discussions/categories/ideas-y-propuestas)", y cualquier persona cualquier persona puede sugerir una.
+Para ver todas las iniciativas en marcha puedes usar el **topic ["community-builders"](https://github.com/topics/community-builders)**. 
 
----
-
-📢 **NOVEDADES**: consulta [los boletines](https://github.com/orgs/ComBuildersES/discussions/categories/novedades) o [síguenos en redes](https://linktr.ee/ComBuilders_ES).
+También puedes visitar el foro "[Ideas y propuestas](https://github.com/orgs/ComBuildersES/discussions/categories/ideas-y-propuestas)" para ver otras ideas que se han sugerido.
 
 ---
 
-✍️ **¿QUIERES UNIRTE?** [rellena este formulario](https://docs.google.com/forms/d/e/1FAIpQLSd5Idc1wG2uhHBT11veYVx6JUfrvb_ylc1WC0ZfuXykvm1rtw/viewform).
+📢 **Novedades**: Consulta [los boletines](https://github.com/orgs/ComBuildersES/discussions/categories/novedades) y [síguenos en redes](https://linktr.ee/ComBuilders_ES) para saber qué está pasando.
 
----
+❓ **Preguntas frecuentes**: ¿Tienes más dudas? Revisa [el FAQ](https://github.com/ComBuildersES/.github/blob/main/FAQ.md).
 
-❓ **PREGUNTAS FRECUENTES**: ¿Tienes más dudas? Revisa [el FAQ](https://github.com/ComBuildersES/community/blob/main/FAQ.md), [abre un issue aquí](https://github.com/ComBuildersES/gestion-interna/issues) o escríbenos a communitybuilders.es@gmail.com.
+✍️ **¿Quieres unirte?**: [Rellena este formulario](https://docs.google.com/forms/d/e/1FAIpQLSd5Idc1wG2uhHBT11veYVx6JUfrvb_ylc1WC0ZfuXykvm1rtw/viewform).
