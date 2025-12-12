@@ -139,14 +139,14 @@ La lista de correo ([community-builders-es@googlegroups.com](https://groups.goog
 
 Suscríbete a las iniciativas que te interesen (apóyalas con una ⭐️) o sugiere una nueva si no la encuentras.
 
-> ⚠️ **Importante**: si quieres recibir notificaciones por correo cuando haya nueva actividad en un foro de GitHub Discussions tienes que seguir [estas instrucciones](https://github.com/orgs/ComBuildersES/discussions/1).
+> ⚠️ **Importante**: si quieres recibir notificaciones por correo cuando haya nueva actividad en un foro de GitHub Discussions, tienes que seguir [estas instrucciones](https://github.com/orgs/ComBuildersES/discussions/1).
 
 ### Involucrarse
 
 Si quieres participar más activamente, puedes hacerlo a diferentes niveles:
 
 * **Iniciativa**: busca la que te interese y revisa su [CONTRIBUTING.md](https://github.com/search?q=org%3AComBuildersES+path%3ACONTRIBUTING.md&type=code).
-* **Transversal**: si quieres unirte al equipo de dinamizadores de Community Builders, consulta [este CONTRIBUTING.md](https://github.com/ComBuildersES/gestion-interna/blob/main/CONTRIBUTING.md).
+* **Transversal**: si quieres unirte al equipo de dinamizadores de Community Builders, háznoslo saber en [este PR donde estábamos discutiendo posibles formas de organizarnos](https://github.com/ComBuildersES/gestion-interna/pull/35).
 
 <details>
 <summary><strong>¡Tenemos decenas de oportunidades para participar!</strong></summary>
