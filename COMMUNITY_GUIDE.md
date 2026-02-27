@@ -146,6 +146,7 @@ Suscríbete a las iniciativas que te interesen (apóyalas con una ⭐️) o sugi
 Si quieres participar más activamente, puedes hacerlo a diferentes niveles:
 
 * **Iniciativa**: busca la que te interese y revisa su [CONTRIBUTING.md](https://github.com/search?q=org%3AComBuildersES+path%3ACONTRIBUTING.md&type=code).
+  * Ten en cuenta que no nos cerramos sólo a estas, puedes [revisar otras ideas y propuestas comentadas](https://github.com/orgs/ComBuildersES/discussions/categories/ideas-y-propuestas) o proponer las tuyas.
 * **Transversal**: si quieres unirte al equipo de dinamizadores de Community Builders, háznoslo saber en [este PR donde estábamos discutiendo posibles formas de organizarnos](https://github.com/ComBuildersES/gestion-interna/pull/35).
 
 <details>
