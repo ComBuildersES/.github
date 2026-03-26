@@ -16,6 +16,18 @@
       ]
     },
     {
+      "login": "draxus",
+      "name": "Manuel Martín",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2436?v=4",
+      "profile": "https://www.draxus.org/",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "awesome-community-builders",
+        "charlamos-con-community-builders",
+        "communities-directory"
+      ]
+    },
+    {
       "login": "yisus82",
       "name": "Jesús Ángel Pérez-Roca Fernández",
       "avatar_url": "https://avatars.githubusercontent.com/u/7774855?v=4",
@@ -28,14 +40,15 @@
       ]
     },
     {
-      "login": "draxus",
-      "name": "Manuel Martín",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2436?v=4",
-      "profile": "https://www.draxus.org/",
+      "login": "astrojuanlu",
+      "name": "Juan Luis Cano Rodríguez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316517?v=4",
+      "profile": "https://github.com/astrojuanlu",
       "contributions": [
-        "estudio-publico-objetivo",
-        "awesome-community-builders",
-        "charlamos-con-community-builders"
+        "formatos-para-eventos",
+        "charlamos-con-community-builders",
+        "communities-directory",
+        "punto-de-encuentro"
       ]
     },
     {
@@ -61,6 +74,17 @@
       ]
     },
     {
+      "login": "deors",
+      "name": "Jorge Hidalgo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4376867?v=4",
+      "profile": "http://deors.wordpress.com",
+      "contributions": [
+        "formatos-para-eventos",
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "anabuigues",
       "name": "Ana Buigues",
       "avatar_url": "https://avatars.githubusercontent.com/u/592441?v=4",
@@ -72,13 +96,24 @@
       ]
     },
     {
-      "login": "astrojuanlu",
-      "name": "Juan Luis Cano Rodríguez",
-      "avatar_url": "https://avatars.githubusercontent.com/u/316517?v=4",
-      "profile": "https://github.com/astrojuanlu",
+      "login": "mario-ezquerro",
+      "name": "Mario",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4250161?v=4",
+      "profile": "http://gdglarioja.blogspot.com.es/",
       "contributions": [
-        "formatos-para-eventos",
+        "awesome-community-builders",
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "abrahamotero",
+      "name": "AbrahamOtero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5107030?v=4",
+      "profile": "https://github.com/AbrahamOtero",
+      "contributions": [
         "charlamos-con-community-builders",
+        "communities-directory",
         "punto-de-encuentro"
       ]
     },
@@ -103,16 +138,6 @@
       ]
     },
     {
-      "login": "deors",
-      "name": "Jorge Hidalgo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4376867?v=4",
-      "profile": "http://deors.wordpress.com",
-      "contributions": [
-        "formatos-para-eventos",
-        "punto-de-encuentro"
-      ]
-    },
-    {
       "login": "manosfrias",
       "name": "Ana Manosfrias",
       "avatar_url": "https://avatars.githubusercontent.com/u/10085811?v=4",
@@ -123,13 +148,13 @@
       ]
     },
     {
-      "login": "mario-ezquerro",
-      "name": "Mario",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4250161?v=4",
-      "profile": "http://gdglarioja.blogspot.com.es/",
+      "login": "lsybarguen",
+      "name": "Luis Sánchez de Ybargüen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12547113?v=4",
+      "profile": "http://jonthebeach.com",
       "contributions": [
         "awesome-community-builders",
-        "punto-de-encuentro"
+        "communities-directory"
       ]
     },
     {
@@ -167,16 +192,6 @@
       "name": "Rei Aguilera",
       "avatar_url": "https://avatars.githubusercontent.com/u/186906?v=4",
       "profile": "http://reiaguilera.com",
-      "contributions": [
-        "charlamos-con-community-builders",
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "abrahamotero",
-      "name": "AbrahamOtero",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5107030?v=4",
-      "profile": "https://github.com/AbrahamOtero",
       "contributions": [
         "charlamos-con-community-builders",
         "punto-de-encuentro"
@@ -223,19 +238,60 @@
       ]
     },
     {
+      "login": "jorgeteixe",
+      "name": "Jorge Teixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45232371?v=4",
+      "profile": "https://github.com/jorgeteixe",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "dbonillaf",
+      "name": "David Bonilla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293330?v=4",
+      "profile": "https://github.com/dbonillaf",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "manufosela",
+      "name": "Mánu Fosela",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1101670?v=4",
+      "profile": "https://github.com/manufosela",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "alvarosaugar",
+      "name": "Álvaro Saugar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37780691?v=4",
+      "profile": "https://github.com/alvarosaugar",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "eun-plata",
+      "name": "Eun Young Cho (Plata)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25737523?v=4",
+      "profile": "https://github.com/eun-plata",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "jsmanrique",
       "name": "Manrique Lopez",
       "avatar_url": "https://avatars.githubusercontent.com/u/1178305?v=4",
       "profile": "http://jsmanrique.es",
-      "contributions": [
-        "awesome-community-builders"
-      ]
-    },
-    {
-      "login": "lsybarguen",
-      "name": "Luis Sánchez de Ybargüen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/12547113?v=4",
-      "profile": "http://jonthebeach.com",
       "contributions": [
         "awesome-community-builders"
       ]
@@ -295,6 +351,33 @@
       ]
     },
     {
+      "login": "ivigilm",
+      "name": "Isabel Vigil Morán",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34597019?v=4",
+      "profile": "https://github.com/ivigilm",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
+      "login": "nucliweb",
+      "name": "Joan León",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1307927?v=4",
+      "profile": "https://github.com/nucliweb",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
+      "login": "yupipi93",
+      "name": "Sergio Conejero Vicente",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26326882?v=4",
+      "profile": "https://github.com/yupipi93",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
       "login": "kdarrey",
       "name": "kdarrey",
       "avatar_url": "https://avatars.githubusercontent.com/u/3646738?v=4",
@@ -349,28 +432,10 @@
       ]
     },
     {
-      "login": "alvarosaugar",
-      "name": "Álvaro Saugar",
-      "avatar_url": "https://avatars.githubusercontent.com/u/37780691?v=4",
-      "profile": "https://github.com/alvarosaugar",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
       "login": "aguadotzn",
       "name": "Adrián",
       "avatar_url": "https://avatars.githubusercontent.com/u/22575055?v=4",
       "profile": "https://github.com/aguadotzn",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "eun-plata",
-      "name": "Eun Young Cho (Plata)",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25737523?v=4",
-      "profile": "https://github.com/eun-plata",
       "contributions": [
         "punto-de-encuentro"
       ]
@@ -385,28 +450,10 @@
       ]
     },
     {
-      "login": "manufosela",
-      "name": "Mánu Fosela",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1101670?v=4",
-      "profile": "https://manufosela.es",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
       "login": "qwor01",
       "name": "Ignacio Espósito",
       "avatar_url": "https://avatars.githubusercontent.com/u/113616553?v=4",
       "profile": "https://github.com/Qwor01",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "jorgeteixe",
-      "name": "Jorge Teixeira",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45232371?v=4",
-      "profile": "https://teixe.es",
       "contributions": [
         "punto-de-encuentro"
       ]
@@ -452,15 +499,6 @@
       "name": "Elena.NET",
       "avatar_url": "https://avatars.githubusercontent.com/u/6389665?v=4",
       "profile": "http://beelzenef.github.io",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "dbonillaf",
-      "name": "David Bonilla",
-      "avatar_url": "https://avatars.githubusercontent.com/u/293330?v=4",
-      "profile": "http://www.bonillaware.com",
       "contributions": [
         "punto-de-encuentro"
       ]
