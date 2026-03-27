@@ -28,6 +28,18 @@
       ]
     },
     {
+      "login": "julietazalduendo",
+      "name": "Julieta Zalduendo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98886279?v=4",
+      "profile": "https://www.mytechplan.com/",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "charlamos-con-community-builders",
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "yisus82",
       "name": "Jesús Ángel Pérez-Roca Fernández",
       "avatar_url": "https://avatars.githubusercontent.com/u/7774855?v=4",
@@ -48,17 +60,6 @@
         "formatos-para-eventos",
         "charlamos-con-community-builders",
         "communities-directory",
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "julietazalduendo",
-      "name": "Julieta Zalduendo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/98886279?v=4",
-      "profile": "https://www.mytechplan.com/",
-      "contributions": [
-        "estudio-publico-objetivo",
-        "charlamos-con-community-builders",
         "punto-de-encuentro"
       ]
     },
@@ -278,10 +279,30 @@
       ]
     },
     {
+      "login": "aguadotzn",
+      "name": "Adrián",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22575055?v=4",
+      "profile": "https://github.com/aguadotzn",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "eun-plata",
       "name": "Eun Young Cho (Plata)",
       "avatar_url": "https://avatars.githubusercontent.com/u/25737523?v=4",
       "profile": "https://github.com/eun-plata",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "qwor01",
+      "name": "Ignacio Espósito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113616553?v=4",
+      "profile": "https://github.com/Qwor01",
       "contributions": [
         "communities-directory",
         "punto-de-encuentro"
@@ -378,6 +399,15 @@
       ]
     },
     {
+      "login": "ifraixedes",
+      "name": "Ivan Fraixedes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1731633?v=4",
+      "profile": "https://ivan.fraixed.es",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
       "login": "kdarrey",
       "name": "kdarrey",
       "avatar_url": "https://avatars.githubusercontent.com/u/3646738?v=4",
@@ -432,28 +462,10 @@
       ]
     },
     {
-      "login": "aguadotzn",
-      "name": "Adrián",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22575055?v=4",
-      "profile": "https://github.com/aguadotzn",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
       "login": "yondemon",
       "name": "Pablo Rod.",
       "avatar_url": "https://avatars.githubusercontent.com/u/1371816?v=4",
       "profile": "http://amorodio.es",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "qwor01",
-      "name": "Ignacio Espósito",
-      "avatar_url": "https://avatars.githubusercontent.com/u/113616553?v=4",
-      "profile": "https://github.com/Qwor01",
       "contributions": [
         "punto-de-encuentro"
       ]
