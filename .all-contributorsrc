@@ -119,6 +119,17 @@
       ]
     },
     {
+      "login": "ilopmar",
+      "name": "Iván López",
+      "avatar_url": "https://avatars.githubusercontent.com/u/559192?v=4",
+      "profile": "https://github.com/ilopmar",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "luismesalas",
       "name": "Luis Mesa",
       "avatar_url": "https://avatars.githubusercontent.com/u/7116402?v=4",
@@ -193,16 +204,6 @@
       "name": "Rei Aguilera",
       "avatar_url": "https://avatars.githubusercontent.com/u/186906?v=4",
       "profile": "http://reiaguilera.com",
-      "contributions": [
-        "charlamos-con-community-builders",
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "ilopmar",
-      "name": "Iván López",
-      "avatar_url": "https://avatars.githubusercontent.com/u/559192?v=4",
-      "profile": "https://github.com/ilopmar",
       "contributions": [
         "charlamos-con-community-builders",
         "punto-de-encuentro"

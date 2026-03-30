@@ -102,6 +102,15 @@
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/ilopmar">
+          <img src="https://avatars.githubusercontent.com/u/559192?v=4" width="100px;" alt="ilopmar"/><br />
+          <sub><b>Iván López</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(2)</a>
+        <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/mesa">
           <img src="https://avatars.githubusercontent.com/u/7116402?v=4" width="100px;" alt="luismesalas"/><br />
           <sub><b>Luis Mesa</b></sub>
@@ -125,6 +134,8 @@
         <a href="https://github.com/ComBuildersES/formatos-para-eventos" title="formatos-para-eventos">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://jonthebeach.com">
           <img src="https://avatars.githubusercontent.com/u/12547113?v=4" width="100px;" alt="lsybarguen"/><br />
@@ -133,8 +144,6 @@
         <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(2)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://javiervelezreyes.com">
           <img src="https://avatars.githubusercontent.com/u/6446073?v=4" width="100px;" alt="javiervelezreyes"/><br />
@@ -163,14 +172,6 @@
         <a href="http://reiaguilera.com">
           <img src="https://avatars.githubusercontent.com/u/186906?v=4" width="100px;" alt="reiaguilera"/><br />
           <sub><b>Rei Aguilera</b></sub>
-        </a><br />
-        <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
-        <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/ilopmar">
-          <img src="https://avatars.githubusercontent.com/u/559192?v=4" width="100px;" alt="ilopmar"/><br />
-          <sub><b>Iván López</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
