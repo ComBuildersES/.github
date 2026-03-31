@@ -108,6 +108,17 @@
       ]
     },
     {
+      "login": "nujovich",
+      "name": "Nadia Ujovich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48018975?v=4",
+      "profile": "https://www.linkedin.com/in/nadiaujovich/",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "abrahamotero",
       "name": "AbrahamOtero",
       "avatar_url": "https://avatars.githubusercontent.com/u/5107030?v=4",
@@ -184,16 +195,6 @@
       "name": "Juan Manuel Ruiz Fernández",
       "avatar_url": "https://avatars.githubusercontent.com/u/6529592?v=4",
       "profile": "https://linktr.ee/neovasili",
-      "contributions": [
-        "charlamos-con-community-builders",
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "nujovich",
-      "name": "Nadia Ujovich",
-      "avatar_url": "https://avatars.githubusercontent.com/u/48018975?v=4",
-      "profile": "https://www.linkedin.com/in/nadiaujovich/",
       "contributions": [
         "charlamos-con-community-builders",
         "punto-de-encuentro"
@@ -404,6 +405,24 @@
       "name": "Ivan Fraixedes",
       "avatar_url": "https://avatars.githubusercontent.com/u/1731633?v=4",
       "profile": "https://ivan.fraixed.es",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
+      "login": "cesalberca",
+      "name": "César Alberca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7138463?v=4",
+      "profile": "http://cesalberca.com",
+      "contributions": [
+        "communities-directory"
+      ]
+    },
+    {
+      "login": "amagan",
+      "name": "Andrea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72810518?v=4",
+      "profile": "https://github.com/amagan",
       "contributions": [
         "communities-directory"
       ]
