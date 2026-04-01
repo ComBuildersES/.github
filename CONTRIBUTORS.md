@@ -357,6 +357,20 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://www.linkedin.com/in/crystian">
+          <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="100px;" alt="crystian"/><br />
+          <sub><b>Crystian</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://soydachi.com/">
+          <img src="https://avatars.githubusercontent.com/u/1771785?v=4" width="100px;" alt="soydachi"/><br />
+          <sub><b>Dachi Gogotchuri</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/kdarrey">
           <img src="https://avatars.githubusercontent.com/u/3646738?v=4" width="100px;" alt="kdarrey"/><br />
           <sub><b>kdarrey</b></sub>
@@ -391,6 +405,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://aparicio.it">
           <img src="https://avatars.githubusercontent.com/u/74605730?v=4" width="100px;" alt="peterpaulez"/><br />
@@ -405,8 +421,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/mariomnts">
           <img src="https://avatars.githubusercontent.com/u/5486339?v=4" width="100px;" alt="mariomnts"/><br />
@@ -442,6 +456,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://about.me/jorgearanda">
           <img src="https://avatars.githubusercontent.com/u/5855639?v=4" width="100px;" alt="naish21"/><br />
@@ -456,8 +472,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/alexeii19">
           <img src="https://avatars.githubusercontent.com/u/61477091?v=4" width="100px;" alt="alexeii19"/><br />
