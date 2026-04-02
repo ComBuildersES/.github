@@ -93,6 +93,15 @@
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/Qwor01">
+          <img src="https://avatars.githubusercontent.com/u/113616553?v=4" width="100px;" alt="qwor01"/><br />
+          <sub><b>Ignacio Espósito</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(2)</a>
+        <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/nadiaujovich/">
           <img src="https://avatars.githubusercontent.com/u/48018975?v=4" width="100px;" alt="nujovich"/><br />
           <sub><b>Nadia Ujovich</b></sub>
@@ -127,6 +136,8 @@
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/cldelgadop">
           <img src="https://avatars.githubusercontent.com/u/62181574?v=4" width="100px;" alt="cldelgadop"/><br />
@@ -135,8 +146,6 @@
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/anagilamor/">
           <img src="https://avatars.githubusercontent.com/u/10085811?v=4" width="100px;" alt="manosfrias"/><br />
@@ -149,6 +158,14 @@
         <a href="http://jonthebeach.com">
           <img src="https://avatars.githubusercontent.com/u/12547113?v=4" width="100px;" alt="lsybarguen"/><br />
           <sub><b>Luis Sánchez de Ybargüen</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(2)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://soydachi.com/">
+          <img src="https://avatars.githubusercontent.com/u/1771785?v=4" width="100px;" alt="soydachi"/><br />
+          <sub><b>Dachi Gogotchuri</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(2)</a>
@@ -177,6 +194,8 @@
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://xavidop.me/">
           <img src="https://avatars.githubusercontent.com/u/4416096?v=4" width="100px;" alt="xavidop"/><br />
@@ -193,8 +212,6 @@
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/andreamagan">
           <img src="https://avatars.githubusercontent.com/u/45942798?v=4" width="100px;" alt="andreamagan"/><br />
@@ -235,6 +252,8 @@
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/aguadotzn">
           <img src="https://avatars.githubusercontent.com/u/22575055?v=4" width="100px;" alt="aguadotzn"/><br />
@@ -247,16 +266,6 @@
         <a href="https://github.com/eun-plata">
           <img src="https://avatars.githubusercontent.com/u/25737523?v=4" width="100px;" alt="eun-plata"/><br />
           <sub><b>Eun Young Cho (Plata)</b></sub>
-        </a><br />
-        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
-        <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/Qwor01">
-          <img src="https://avatars.githubusercontent.com/u/113616553?v=4" width="100px;" alt="qwor01"/><br />
-          <sub><b>Ignacio Espósito</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
@@ -296,6 +305,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/Aleixbs">
           <img src="https://avatars.githubusercontent.com/u/84009394?v=4" width="100px;" alt="aleixbs"/><br />
@@ -303,8 +314,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/dzknl">
           <img src="https://avatars.githubusercontent.com/u/137705294?v=4" width="100px;" alt="dzknl"/><br />
@@ -347,6 +356,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/amagan">
           <img src="https://avatars.githubusercontent.com/u/72810518?v=4" width="100px;" alt="amagan"/><br />
@@ -354,8 +365,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/crystian">
           <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="100px;" alt="crystian"/><br />
@@ -364,9 +373,9 @@
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
-        <a href="https://soydachi.com/">
-          <img src="https://avatars.githubusercontent.com/u/1771785?v=4" width="100px;" alt="soydachi"/><br />
-          <sub><b>Dachi Gogotchuri</b></sub>
+        <a href="https://franmartin.es">
+          <img src="https://avatars.githubusercontent.com/u/41595271?v=4" width="100px;" alt="fmariv"/><br />
+          <sub><b>Fran Martin Rivas</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
@@ -398,6 +407,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/npatarino">
           <img src="https://avatars.githubusercontent.com/u/209096?v=4" width="100px;" alt="npatarino"/><br />
@@ -405,8 +416,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://aparicio.it">
           <img src="https://avatars.githubusercontent.com/u/74605730?v=4" width="100px;" alt="peterpaulez"/><br />
@@ -449,6 +458,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://beelzenef.github.io">
           <img src="https://avatars.githubusercontent.com/u/6389665?v=4" width="100px;" alt="beelzenef"/><br />
@@ -456,8 +467,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://about.me/jorgearanda">
           <img src="https://avatars.githubusercontent.com/u/5855639?v=4" width="100px;" alt="naish21"/><br />

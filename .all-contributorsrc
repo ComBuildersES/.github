@@ -108,6 +108,17 @@
       ]
     },
     {
+      "login": "qwor01",
+      "name": "Ignacio Espósito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113616553?v=4",
+      "profile": "https://github.com/Qwor01",
+      "contributions": [
+        "awesome-community-builders",
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "nujovich",
       "name": "Nadia Ujovich",
       "avatar_url": "https://avatars.githubusercontent.com/u/48018975?v=4",
@@ -175,6 +186,16 @@
       "name": "Luis Sánchez de Ybargüen",
       "avatar_url": "https://avatars.githubusercontent.com/u/12547113?v=4",
       "profile": "http://jonthebeach.com",
+      "contributions": [
+        "awesome-community-builders",
+        "communities-directory"
+      ]
+    },
+    {
+      "login": "soydachi",
+      "name": "Dachi Gogotchuri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1771785?v=4",
+      "profile": "https://soydachi.com/",
       "contributions": [
         "awesome-community-builders",
         "communities-directory"
@@ -295,16 +316,6 @@
       "name": "Eun Young Cho (Plata)",
       "avatar_url": "https://avatars.githubusercontent.com/u/25737523?v=4",
       "profile": "https://github.com/eun-plata",
-      "contributions": [
-        "communities-directory",
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "qwor01",
-      "name": "Ignacio Espósito",
-      "avatar_url": "https://avatars.githubusercontent.com/u/113616553?v=4",
-      "profile": "https://github.com/Qwor01",
       "contributions": [
         "communities-directory",
         "punto-de-encuentro"
@@ -437,10 +448,10 @@
       ]
     },
     {
-      "login": "soydachi",
-      "name": "Dachi Gogotchuri",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1771785?v=4",
-      "profile": "https://soydachi.com/",
+      "login": "fmariv",
+      "name": "Fran Martin Rivas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41595271?v=4",
+      "profile": "https://franmartin.es",
       "contributions": [
         "communities-directory"
       ]
