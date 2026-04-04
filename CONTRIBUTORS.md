@@ -380,6 +380,13 @@
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://ajimenez1503.github.io">
+          <img src="https://avatars.githubusercontent.com/u/5960625?v=4" width="100px;" alt="ajimenez1503"/><br />
+          <sub><b>Antonio Jimenez</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/kdarrey">
           <img src="https://avatars.githubusercontent.com/u/3646738?v=4" width="100px;" alt="kdarrey"/><br />
           <sub><b>kdarrey</b></sub>
@@ -400,6 +407,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.danielcastanera.com">
           <img src="https://avatars.githubusercontent.com/u/6005590?v=4" width="100px;" alt="guldoe"/><br />
@@ -407,8 +416,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/npatarino">
           <img src="https://avatars.githubusercontent.com/u/209096?v=4" width="100px;" alt="npatarino"/><br />
@@ -451,6 +458,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://nicolasgrenie.com">
           <img src="https://avatars.githubusercontent.com/u/172072?v=4" width="100px;" alt="picsoung"/><br />
@@ -458,8 +467,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://beelzenef.github.io">
           <img src="https://avatars.githubusercontent.com/u/6389665?v=4" width="100px;" alt="beelzenef"/><br />
