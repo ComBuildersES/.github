@@ -202,6 +202,16 @@
       ]
     },
     {
+      "login": "npatarino",
+      "name": "Nicolás Patarino",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209096?v=4",
+      "profile": "https://github.com/npatarino",
+      "contributions": [
+        "awesome-community-builders",
+        "punto-de-encuentro"
+      ]
+    },
+    {
       "login": "javiervelezreyes",
       "name": "Javier Vélez Reyes",
       "avatar_url": "https://avatars.githubusercontent.com/u/6446073?v=4",
@@ -326,6 +336,15 @@
       "name": "Manrique Lopez",
       "avatar_url": "https://avatars.githubusercontent.com/u/1178305?v=4",
       "profile": "http://jsmanrique.es",
+      "contributions": [
+        "awesome-community-builders"
+      ]
+    },
+    {
+      "login": "olirale",
+      "name": "Olirale",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47412847?v=4",
+      "profile": "https://github.com/Olirale",
       "contributions": [
         "awesome-community-builders"
       ]
@@ -524,15 +543,6 @@
       "name": "Daniel Castañera Garrido",
       "avatar_url": "https://avatars.githubusercontent.com/u/6005590?v=4",
       "profile": "https://www.danielcastanera.com",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "npatarino",
-      "name": "Nicolás Patarino",
-      "avatar_url": "https://avatars.githubusercontent.com/u/209096?v=4",
-      "profile": "https://github.com/npatarino",
       "contributions": [
         "punto-de-encuentro"
       ]
