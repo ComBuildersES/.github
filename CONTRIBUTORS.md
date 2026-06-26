@@ -221,6 +221,14 @@
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://mipigu.com">
+          <img src="https://avatars.githubusercontent.com/u/21361339?v=4" width="100px;" alt="eypigu"/><br />
+          <sub><b>Sergio Márquez</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(2)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/andreamagan">
           <img src="https://avatars.githubusercontent.com/u/45942798?v=4" width="100px;" alt="andreamagan"/><br />
           <sub><b>Andrea Magán Rey</b></sub>
@@ -244,6 +252,8 @@
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/manufosela">
           <img src="https://avatars.githubusercontent.com/u/1101670?v=4" width="100px;" alt="manufosela"/><br />
@@ -252,8 +262,6 @@
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/alvarosaugar">
           <img src="https://avatars.githubusercontent.com/u/37780691?v=4" width="100px;" alt="alvarosaugar"/><br />
@@ -296,13 +304,6 @@
         <a href="https://github.com/MrAceitun0">
           <img src="https://avatars.githubusercontent.com/u/38362404?v=4" width="100px;" alt="mraceitun0"/><br />
           <sub><b>MrAceitun0</b></sub>
-        </a><br />
-        <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://mipigu.com">
-          <img src="https://avatars.githubusercontent.com/u/21361339?v=4" width="100px;" alt="eypigu"/><br />
-          <sub><b>Sergio Márquez</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(1)</a>
       </td>

@@ -262,6 +262,16 @@
       ]
     },
     {
+      "login": "eypigu",
+      "name": "Sergio Márquez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21361339?v=4",
+      "profile": "https://mipigu.com",
+      "contributions": [
+        "charlamos-con-community-builders",
+        "communities-directory"
+      ]
+    },
+    {
       "login": "andreamagan",
       "name": "Andrea Magán Rey",
       "avatar_url": "https://avatars.githubusercontent.com/u/45942798?v=4",
@@ -354,15 +364,6 @@
       "name": "MrAceitun0",
       "avatar_url": "https://avatars.githubusercontent.com/u/38362404?v=4",
       "profile": "https://github.com/MrAceitun0",
-      "contributions": [
-        "charlamos-con-community-builders"
-      ]
-    },
-    {
-      "login": "eypigu",
-      "name": "Sergio Márquez",
-      "avatar_url": "https://avatars.githubusercontent.com/u/21361339?v=4",
-      "profile": "https://mipigu.com",
       "contributions": [
         "charlamos-con-community-builders"
       ]
