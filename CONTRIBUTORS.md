@@ -463,6 +463,13 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/dacacioa">
+          <img src="https://avatars.githubusercontent.com/u/2761032?v=4" width="100px;" alt="dacacioa"/><br />
+          <sub><b>David Acacio</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/kdarrey">
           <img src="https://avatars.githubusercontent.com/u/3646738?v=4" width="100px;" alt="kdarrey"/><br />
           <sub><b>kdarrey</b></sub>
@@ -504,6 +511,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/mariomnts">
           <img src="https://avatars.githubusercontent.com/u/5486339?v=4" width="100px;" alt="mariomnts"/><br />
@@ -511,8 +520,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/angelisco1">
           <img src="https://avatars.githubusercontent.com/u/6765239?v=4" width="100px;" alt="angelisco1"/><br />
@@ -555,6 +562,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/alexeii19">
           <img src="https://avatars.githubusercontent.com/u/61477091?v=4" width="100px;" alt="alexeii19"/><br />
@@ -562,8 +571,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/bcaldeiro-icam">
           <img src="https://avatars.githubusercontent.com/u/206851346?v=4" width="100px;" alt="bcaldeiro-icam"/><br />
