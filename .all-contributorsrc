@@ -75,6 +75,17 @@
       ]
     },
     {
+      "login": "cldelgadop",
+      "name": "Carmen Delgado",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62181574?v=4",
+      "profile": "https://github.com/cldelgadop",
+      "contributions": [
+        "estudio-publico-objetivo",
+        "charlamos-con-community-builders",
+        "communities-directory"
+      ]
+    },
+    {
       "login": "deors",
       "name": "Jorge Hidalgo",
       "avatar_url": "https://avatars.githubusercontent.com/u/4376867?v=4",
@@ -159,16 +170,6 @@
       "contributions": [
         "estudio-publico-objetivo",
         "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "cldelgadop",
-      "name": "Carmen Delgado",
-      "avatar_url": "https://avatars.githubusercontent.com/u/62181574?v=4",
-      "profile": "https://github.com/cldelgadop",
-      "contributions": [
-        "estudio-publico-objetivo",
-        "charlamos-con-community-builders"
       ]
     },
     {
@@ -336,6 +337,16 @@
       "name": "Eun Young Cho (Plata)",
       "avatar_url": "https://avatars.githubusercontent.com/u/25737523?v=4",
       "profile": "https://github.com/eun-plata",
+      "contributions": [
+        "communities-directory",
+        "punto-de-encuentro"
+      ]
+    },
+    {
+      "login": "guldoe",
+      "name": "Daniel Castañera Garrido",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6005590?v=4",
+      "profile": "https://www.danielcastanera.com",
       "contributions": [
         "communities-directory",
         "punto-de-encuentro"
@@ -607,15 +618,6 @@
       "name": "Vanessa",
       "avatar_url": "https://avatars.githubusercontent.com/u/6459533?v=4",
       "profile": "https://github.com/v4n3ss4ms",
-      "contributions": [
-        "punto-de-encuentro"
-      ]
-    },
-    {
-      "login": "guldoe",
-      "name": "Daniel Castañera Garrido",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6005590?v=4",
-      "profile": "https://www.danielcastanera.com",
       "contributions": [
         "punto-de-encuentro"
       ]

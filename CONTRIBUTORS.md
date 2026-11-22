@@ -64,6 +64,17 @@
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/cldelgadop">
+          <img src="https://avatars.githubusercontent.com/u/62181574?v=4" width="100px;" alt="cldelgadop"/><br />
+          <sub><b>Carmen Delgado</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
+        <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(3)</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
         <a href="http://deors.wordpress.com">
           <img src="https://avatars.githubusercontent.com/u/4376867?v=4" width="100px;" alt="deors"/><br />
           <sub><b>Jorge Hidalgo</b></sub>
@@ -72,8 +83,6 @@
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(2)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://anabuigues.com">
           <img src="https://avatars.githubusercontent.com/u/592441?v=4" width="100px;" alt="anabuigues"/><br />
@@ -128,6 +137,8 @@
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(2)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(3)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/mesa">
           <img src="https://avatars.githubusercontent.com/u/7116402?v=4" width="100px;" alt="luismesalas"/><br />
@@ -135,16 +146,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/cldelgadop">
-          <img src="https://avatars.githubusercontent.com/u/62181574?v=4" width="100px;" alt="cldelgadop"/><br />
-          <sub><b>Carmen Delgado</b></sub>
-        </a><br />
-        <a href="https://github.com/ComBuildersES/estudio-publico-objetivo" title="estudio-publico-objetivo">(1)</a>
-        <a href="https://github.com/ComBuildersES/charlamos-con-community-builders" title="charlamos-con-community-builders">(2)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.linkedin.com/in/anagilamor/">
@@ -287,6 +288,14 @@
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
       </td>
       <td align="center" valign="top" width="14.28%">
+        <a href="https://www.danielcastanera.com">
+          <img src="https://avatars.githubusercontent.com/u/6005590?v=4" width="100px;" alt="guldoe"/><br />
+          <sub><b>Daniel Castañera Garrido</b></sub>
+        </a><br />
+        <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
+        <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(2)</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
         <a href="http://jsmanrique.es">
           <img src="https://avatars.githubusercontent.com/u/1178305?v=4" width="100px;" alt="jsmanrique"/><br />
           <sub><b>Manrique Lopez</b></sub>
@@ -300,6 +309,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/anaghz">
           <img src="https://avatars.githubusercontent.com/u/14812693?v=4" width="100px;" alt="anaghz"/><br />
@@ -307,8 +318,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/awesome-community-builders" title="awesome-community-builders">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/MrAceitun0">
           <img src="https://avatars.githubusercontent.com/u/38362404?v=4" width="100px;" alt="mraceitun0"/><br />
@@ -351,6 +360,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/nucliweb">
           <img src="https://avatars.githubusercontent.com/u/1307927?v=4" width="100px;" alt="nucliweb"/><br />
@@ -358,8 +369,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/yupipi93">
           <img src="https://avatars.githubusercontent.com/u/26326882?v=4" width="100px;" alt="yupipi93"/><br />
@@ -402,6 +411,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://ajimenez1503.github.io">
           <img src="https://avatars.githubusercontent.com/u/5960625?v=4" width="100px;" alt="ajimenez1503"/><br />
@@ -409,8 +420,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="http://olea.org/diario/">
           <img src="https://avatars.githubusercontent.com/u/141267?v=4" width="100px;" alt="olea"/><br />
@@ -453,6 +462,8 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://www.noconname.org">
           <img src="https://avatars.githubusercontent.com/u/11219948?v=4" width="100px;" alt="malvinito"/><br />
@@ -460,8 +471,6 @@
         </a><br />
         <a href="https://github.com/ComBuildersES/communities-directory" title="communities-directory">(1)</a>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/dacacioa">
           <img src="https://avatars.githubusercontent.com/u/2761032?v=4" width="100px;" alt="dacacioa"/><br />
@@ -501,13 +510,6 @@
         <a href="https://github.com/v4n3ss4ms">
           <img src="https://avatars.githubusercontent.com/u/6459533?v=4" width="100px;" alt="v4n3ss4ms"/><br />
           <sub><b>Vanessa</b></sub>
-        </a><br />
-        <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://www.danielcastanera.com">
-          <img src="https://avatars.githubusercontent.com/u/6005590?v=4" width="100px;" alt="guldoe"/><br />
-          <sub><b>Daniel Castañera Garrido</b></sub>
         </a><br />
         <a href="https://github.com/ComBuildersES/punto-de-encuentro" title="punto-de-encuentro">(1)</a>
       </td>
